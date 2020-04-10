@@ -13,5 +13,9 @@ This repository includes
    *Connect to a RDS MySQL DB instance using Python in EC2 instance*   
    
 5. [MNIST](https://github.com/Khwansiri/AWS-Architecture/tree/master/MNIST)  
-   *Shows how to develop a CNN for MNIST Handwritten Digit Classification in AWS cloud*  
+   *Shows how to develop a CNN for MNIST Handwritten Digit Classification in AWS cloud*   
+   
+6. [Rekognition](https://github.com/Khwansiri/AWS-Architecture/tree/master/AWS%20Rekognition)  
+   *Label picture from your computer with AWS Rekognition service*
+   
    
