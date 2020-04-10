@@ -20,7 +20,7 @@
     - Security group inboud rule for SSH port 22 and Custom TCP Rule port 8888  
       (for Jupyter Notebook in the later step)  
 
-    *For more details about instance creation, go to https://github.com/Khwansiri/AWS-Architecture/blob/master/Bastion%20Host/README.md *   
+    *For more details about instance creation, go to https://github.com/Khwansiri/AWS-Architecture/blob/master/Bastion%20Host*   
 
 2. Connect to instance then lauch Jupyter Notebook by using Anaconda  
    - Create a new virtual environment + install ipykernel for the new environment  
@@ -39,7 +39,7 @@
    conda install ipykernel
    ipython kernel install --user --name=nameyouwanttodisplay
    ```
-   *For more details about Jupyter Notebook and Anaconda, go to https://github.com/Khwansiri/AWS-JupyterNotebook*   
+   *For more details about Jupyter Notebook and Anaconda, go to https://github.com/Khwansiri/AWS-Architecture/tree/master/Jupyter%20Notebook%20Connection*   
    
 3. Copy files that required for CNN training from this Github repository;  
      ``` 
@@ -69,7 +69,7 @@
     - Public subnet   
     *Since Back End Server contains sensitive data*      
     *It is recommended to put this server in Private subnet and access through Bastion Host for more security*  
-    *More details about Bastion Host in https://github.com/Khwansiri/AWS-BastionHost*  
+    *More details about Bastion Host in https://github.com/Khwansiri/AWS-Architecture/tree/master/Bastion%20Host*  
     - Security group inboud rule for SSH port 22 and Custom TCP Rule port 5000 (For Flask app)
 2. Connect to instance then install Anaconda and create new virtual environment
    ```
