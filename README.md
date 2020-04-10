@@ -1,4 +1,4 @@
-# AWS-Architecture  
+# AWS Architecture  
 This repository includes   
 1. [Bastion Host](https://github.com/Khwansiri/AWS-Architecture/blob/master/Bastion%20Host/README.md)  
    *Shows how to access internet from private subnet through bastion host and NAT instance in public subnet* 
