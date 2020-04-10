@@ -7,7 +7,7 @@ This repository includes
    *Set Up Jupyter Notebook with Python 3 on Ubuntu 18.04*  
    
 3. [RStudio Connection](https://github.com/Khwansiri/AWS-Architecture/tree/master/RStudio%20Connection)    
-   *Set up R Studio Server by Using AWS EC2 instance*  
+   *Set up RStudio Server by Using AWS EC2 instance*  
    
 4. [Database Service](https://github.com/Khwansiri/AWS-Architecture/blob/master/Database%20Service/README.md)   
    *Connect to a RDS MySQL DB instance using Python in EC2 instance*
