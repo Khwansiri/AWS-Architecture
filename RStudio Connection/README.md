@@ -1,4 +1,4 @@
-# Connect to RStudio Server by Using AWS Cloud  
+# AWS: Connect to RStudio Server by Using AWS Cloud  
 
 ## Step Overview:  
 1. Create CentOS 7 AWS instance  
