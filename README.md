@@ -8,4 +8,6 @@ This repository includes
    
 3. [RStudio Connection](https://github.com/Khwansiri/AWS-Architecture/tree/master/RStudio%20Connection)  
    *Set up R Studio Server by Using AWS EC2 instance*
+   
+4. [Database Service](https://github.com/Khwansiri/AWS-Architecture/blob/master/Database%20Service/README.md)
      
