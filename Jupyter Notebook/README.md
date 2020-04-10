@@ -1,4 +1,4 @@
-# AWS-Jupyter-Notebook  
+# AWS: Jupyter Notebook Connection
 
 ## Objective 
 1. Set Up Jupyter Notebook with Python 3 on Ubuntu 18.04  
