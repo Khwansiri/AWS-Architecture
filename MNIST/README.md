@@ -20,7 +20,7 @@
     - Security group inboud rule for SSH port 22 and Custom TCP Rule port 8888  
       (for Jupyter Notebook in the later step)  
 
-    *For more details about instance creation, go to https://github.com/Khwansiri/AWS-BastionHost.git* 
+    *For more details about instance creation, go to https://github.com/Khwansiri/AWS-Architecture/blob/master/Bastion%20Host/README.md *   
 
 2. Connect to instance then lauch Jupyter Notebook by using Anaconda  
    - Create a new virtual environment + install ipykernel for the new environment  
